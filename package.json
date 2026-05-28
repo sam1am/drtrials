@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "author": "Sam Beveridge",
   "devDependencies": {
-    "grunt": "~0.4.2",
+    "grunt": "~1.6.2",
     "grunt-contrib-watch": "~0.5.3",
     "grunt-scss-lint": "0.0.9",
     "grunt-contrib-sass": "~0.7.2",
